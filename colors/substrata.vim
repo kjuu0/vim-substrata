@@ -81,7 +81,7 @@ if (has('termguicolors') && &termguicolors) || has('gui_running')
   hi Constant guifg=#a18daf guibg=NONE gui=NONE cterm=NONE
   hi Error guifg=#cf8164 guibg=NONE gui=NONE cterm=NONE
   hi PreProc guifg=#8296b0 guibg=NONE gui=NONE cterm=NONE
-  hi Special guifg=#7dc2c7 guibg=NONE gui=NONE cterm=NONE
+  hi Special guifg=#c77d91 guibg=NONE gui=NONE cterm=NONE
   hi Statement guifg=#8296b0 guibg=NONE gui=NONE cterm=NONE
   hi Type guifg=#a18daf guibg=NONE gui=NONE cterm=NONE
   hi Delimiter guifg=#6c6f82 guibg=NONE gui=NONE cterm=NONE
@@ -89,7 +89,7 @@ if (has('termguicolors') && &termguicolors) || has('gui_running')
   hi Function guifg=#a0b9d8 guibg=NONE gui=italic cterm=italic
   hi Operator guifg=#6c6f82 guibg=NONE gui=NONE cterm=NONE
   hi SpecialComment guifg=#f0ecfe guibg=NONE gui=italic cterm=italic
-  hi String guifg=#659ea2 guibg=NONE gui=NONE cterm=NONE
+  hi String guifg=#a26581 guibg=NONE gui=NONE cterm=NONE
   hi Title guifg=#f0ecfe guibg=NONE gui=NONE cterm=NONE
   hi Todo guifg=#f0ecfe guibg=NONE gui=NONE cterm=NONE
   hi Typedef guifg=#c6aed7 guibg=NONE gui=NONE cterm=NONE
